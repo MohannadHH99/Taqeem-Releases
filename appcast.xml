@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Taqeem</title>
+        <description>Most recent updates to Taqeem</description>
+        <language>en</language>
+        <item>
+            <title>Version 0.1.3</title>
+            <sparkle:releaseNotesLink>https://github.com/MohannadHH99/Taqeem-Car-Service/releases/tag/v0.1.3</sparkle:releaseNotesLink>
+            <pubDate>Mon, 20 Apr 2026 09:58:50 +0000</pubDate>
+            <enclosure url="https://raw.githubusercontent.com/MohannadHH99/Taqeem-Releases/main/taqeem.msix"
+                       sparkle:version="0.1.3"
+                       sparkle:os="windows"
+                       type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>
