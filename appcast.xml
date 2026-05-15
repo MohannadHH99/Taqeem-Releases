@@ -5,11 +5,11 @@
         <description>Most recent updates to Taqeem</description>
         <language>en</language>
         <item>
-            <title>Version 0.1.8</title>
-            <sparkle:releaseNotesLink>https://github.com/MohannadHH99/Taqeem-Car-Service/releases/tag/v0.1.8</sparkle:releaseNotesLink>
-            <pubDate>Fri, 15 May 2026 00:02:20 +0000</pubDate>
+            <title>Version 0.1.9</title>
+            <sparkle:releaseNotesLink>https://github.com/MohannadHH99/Taqeem-Car-Service/releases/tag/v0.1.9</sparkle:releaseNotesLink>
+            <pubDate>Fri, 15 May 2026 15:16:32 +0000</pubDate>
             <enclosure url="https://raw.githubusercontent.com/MohannadHH99/Taqeem-Releases/main/taqeem.msix"
-                       sparkle:version="0.1.8"
+                       sparkle:version="0.1.9"
                        sparkle:os="windows"
                        type="application/octet-stream"/>
         </item>
